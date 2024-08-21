@@ -1,7 +1,8 @@
 # 🎨 PowerShell Profile (Pretty PowerShell)
 
 YOU SHOULD NOT USE THIS REPO. IT'S JUST A FORK.
-YOU WOULD BE BETTER LOOKING AT THE ORIGINAL FROM Chris TitusTech 
+
+You should be looking at THE ORIGINAL from CHRIS TITUS TECH 
 (https://github.com/ChrisTitusTech/powershell-profile)
 
 
